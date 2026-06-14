@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" alt="Logo" width="256" height="256">
+</p>
+
 # Click & Bookmark
 
 A lightweight, distraction-free browser extension that lets you instantly save any webpage to your native browser bookmark folders directly via the right-click context menu. 
