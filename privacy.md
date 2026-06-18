@@ -1,6 +1,6 @@
 # Privacy Policy
 
-A transparent overview of how **Click & Save Bookmark** respects your data. This extension is built with a strict privacy-first mindset: **zero collection, zero transmission, and zero third-party tracking.**
+A transparent overview of how **Click & Bookmark** respects your data. This extension is built with a strict privacy-first mindset: **zero collection, zero transmission, and zero third-party tracking.**
 
 ---
 
@@ -20,9 +20,8 @@ To integrate seamlessly with your browser's interface, specific technical permis
 
 > ### Technical Breakdown
 > * **`bookmarks`** >   Used strictly to read your local folder names (to build the right-click menu structure) and to create a new bookmark item when you click a folder. This data never leaves your device.
-> * **`contextMenus`** >   Used to inject the unified **"★ Bladwijzer opslaan in..."** options into your right-click overlay.
+> * **`contextMenus`** >   Used to inject the unified **"Save page in..."** options into your right-click overlay.
 > * **`activeTab`** >   Used safely to fetch the current website's URL and page title, but *only* at the exact millisecond you explicitly click a target folder to save it.
-> * **`sidePanel`** >   Used to bind your physical toolbar button directly to the browser's native sidebar layout, allowing it to slide open instantly on a click.
 
 ---
 
